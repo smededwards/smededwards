@@ -1,3 +1,26 @@
-# Hi there 👋 I'm Michael
+# 👋 Hi there I'm Michael
 
-## Experienced Web Developer, with a passion for technical excellence
+**Experienced WordPress Developer, with a passion for technical excellence**
+
+## Technical Skills
+
+ - PHP
+ - WordPress
+ - WooCommerce
+ - Javascript
+ - Block Editor (Gutenberg)
+ - React
+ - Next.js
+ - Typescript
+ - Webpack
+ - REST API
+ - Docker
+ - Git
+ - Unit Testing
+ - Automated Testing
+ - Sass (SCSS)
+ - SEO
+ - Accessibility
+ - Internationalisation
+ - Performance
+ - ResponsiveSecurity
