@@ -23,4 +23,5 @@
  - Accessibility
  - Internationalisation
  - Performance
- - ResponsiveSecurity
+ - Responsive
+ - Security
