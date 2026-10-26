@@ -1,44 +1,45 @@
-# 👋 Hey, I'm Michael
+# Michael Edwards
 
-## 💻 Senior WordPress Developer | Remote Specialist
+## Senior WordPress Engineer | WordPress VIP | React, Next.js & Headless Architecture
 
-With 12+ years of experience, I've built and maintained high-performance websites for global brands, scaling from boutique agencies to high-traffic publishing platforms. I specialise in modern WordPress development — from crafting bespoke themes and custom plugins to extending the Block Editor with React.
-
----
-
-## 🧭 About Me
-
-I thrive at the intersection of creative thinking and technical execution. Whether leading a WordPress team at a global hospitality company or delivering robust sites for international agencies, I bring clarity, performance, and polish to everything I build.
-
-Currently working remotely from the UK, I've collaborated with distributed teams across Europe and the US — building accessible, performant, and scalable digital experiences.
+Senior WordPress Engineer with 13+ years of experience delivering enterprise publishing platforms, digital products, and API-first architectures. Specialist in WordPress VIP, Gutenberg block systems, bespoke plugin development, decoupled Next.js applications, and AI-assisted editorial tooling.
 
 ---
 
-## 🛠️ Technical Toolbox
+### Selected Experience & Impact
 
-- **Languages:** PHP & JavaScript
-- **CMS & E-commerce:** WordPress, WooCommerce
-- **Frameworks:** React, Next.js, Gutenberg, Laravel, Vue.js
-- **Tooling:** Docker, Webpack, Git, REST API, SCSS
-- **Testing:** Unit Testing, Automated Testing
-- **Expertise:** Accessibility, SEO, Internationalisation, Performance, Security
+* **Bauer Media Group:** Built shared WordPress publishing infrastructure across flagship brands (*Parkers, CAR, MCN, Today's Golfer*), evaluated and prototyped OpenAI-powered editorial tools, and developed WP-CLI migration tooling.
+* **Ennismore:** Developed custom WordPress themes, bespoke plugins, and Gutenberg block systems on **WordPress VIP** for luxury hospitality brands (*Mondrian, Delano, Hyde Hotels*), integrating Next.js frontend applications with REST APIs.
+* **Mantarray:** Refactored legacy WordPress and WooCommerce platforms for enterprise agency clients **MVF, Naturecan*), implementing automated CI/CD deployment pipelines.* **Metro.co.uk:** Improved page rendering speed and Core Web Vitals across high-volume news templates, supporting stronger search performance.
+* **Mintel:** Architected a custom PHP translation layer for internationalised WooCommerce checkout flows and streamlined deployment workflows.
 
 ---
 
-## 🧠 Personal Qualities
+### Technical Expertise
 
-- Creative problem-solver with a strong user-first mindset  
-- Confident communicator and team mentor  
-- Meticulous about performance, UX, and maintainability  
-- Adaptable to new tech, environments, and workflows  
-- Native English speaker with basic Portuguese(BR) 🇧🇷
-
----
-
-## 🚀 Let's Connect
-
-Whether you're here to collaborate, hire, or swap dev war stories — feel free to connect with me on [LinkedIn](https://linkedin.com/in/smededwards).
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **WordPress Ecosystem** | WordPress VIP Certified, Headless WordPress, Block Editor (Gutenberg), Custom Themes & Plugins, REST API, WP-CLI, Multisite, ACF, WooCommerce |
+| | **Languages & Frameworks** | PHP, JavaScript (ES6+), React, Next.js, TypeScript, Laravel, Vue.js |
+| | **Tooling & DevOps** | Git, GitHub Actions, Docker, Composer, NPM, CI/CD Pipelines, Webpack, SCSS |
+| **Core Engineering & Standards** | Core Web Vitals, Database Optimisation, Web Accessibility (a11y), Internationalisation (i18n), SEO, Automated Testing |
+| **AI & Innovation** | OpenAI API Integration, AI-Assisted Editorial Tooling, Workflow Automation |
 
 ---
 
-> “code is poetry”
+### Certifications & Education
+
+* **WordPress VIP Certifications:** AI WordPress Developer Tools & Workflow, Enterprise WordPress Security, WordPress VIP Architecture & Tooling, Development, Build, Test & Deployment (2026)
+* **Bellevue College:** BA Digital Media Arts | Bellevue, Washington, US
+* **Croydon College:** BTEC ICT Practitioners | Croydon, Surrey, UK
+
+---
+
+### Contact & Profiles
+
+* **Email:** <smededwards@gmail.com>
+* **LinkedIn:** linkedin.com/in/smededwards
+
+---
+
+*\"code is poetry\"*
